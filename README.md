@@ -1,3 +1,3 @@
 #Szgmgyak3
 
-Ez a *sokadik* repom!
+Ez a ***sokadik*** repom!
